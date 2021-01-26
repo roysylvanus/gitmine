@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SearchGitApp</string>
+    <string name="search_item">Enter search phrase</string>
+    <string name="search_git">SEARCH GIT</string>
+    <string name="search_results">Search Results</string>
+    <string name="error">Please enter a phrase you would like to search</string>
+    <string name="no_results">"No search results found for "</string>
+    <string name="searchresults">"Search results for "</string>
+    <string name="setfilter">"Set filter: "</string>
+
+
+    <string-array name="search_filter">
+        <item>all respositories</item>
+        <item>topic</item>
+        <item>label</item>
+        <item>users</item>
+        <item>issues</item>
+        <item>commits</item>
+        <item>code</item>
+    </string-array>
+
+
+</resources>
